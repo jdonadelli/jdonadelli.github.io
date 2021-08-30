@@ -1,0 +1,46 @@
+#######################################################################
+1)a){e} é corte. 
+	 Se e não  está em alguma T então T+e  contém circuito. Como T
+	 não contém circuito  a aresta e está num  circuito em G.  Mas
+	 se  G é  conexo então  G-e  é conexo  para toda  aresta e  de
+	 circuito em G. 
+  b)e está em toda T árvore geradora de G. 
+	 Se {e} não corte então G-e é conexo e portante tem uma árvore
+	 geradora T'. Como V(T')=V(G-e)=V(G) então T' é árvore geraoda
+	 de G. 
+######################################################################
+2) Para   cada  vértice   de  A   fazemos  um   prcurso  em   G,  logo
+   O(|A||E|)=O(|V||E|). 
+######################################################################
+3) Supondo |A|<|B| e todos os vértices marcados como novos 
+
+reescrevemos as linhas
+2: Se existe u em A novo e nao coberto
+3: marque u velho
+9: volte para 2 (nesse caso nao havera caminho M-aumentante que comeca
+		 em u, entao procurar a partir de outro vertice novo)
+
+com isso o algoritmo busca caminhos M-aumentatntes e quando nao existir
+M é máximo
+#######################################################################
+4) O problema  são circuitos ímpares  (lemrando que bipartido  <=> sem
+   circuito impar). 
+
+  Considere o exemplo (X é vértice e ==== aresta de M)
+			X
+			|
+			|
+			X	
+		       / \ 
+		      /	  \
+		     X=====X
+		     |
+		     |
+		     X
+Lembrando que  a idéia  do algoritmo húngaro  é construir  uma árvore,
+haverá um impasse quando o alg chegar no 2o extremo de ====. 
+
+Resumindo, o funcionamento do algoritmo é baseado numa árvore que é um
+grafo  bipartido, portanto  se  G  conter circuito  ímpar  não dá  pra
+constriur árvore de caminhos aumentantes. 
+#######################################################################

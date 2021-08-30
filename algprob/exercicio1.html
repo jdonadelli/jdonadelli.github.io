@@ -1,0 +1,40 @@
+<head>
+
+   <style>
+.MathJax nobr>span.math>span{border-left-width:0 !important};
+   </style>   
+
+  
+  <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] },
+            tex2jax: { inlineMath: [ ["$", "$"], ["\\\\(","\\\\)"] ], displayMath: [ ["$$","$$"], ["\\[", "\\]"] ], processEscapes: true, ignoreClass: "tex2jax_ignore|dno" },
+            TeX: { noUndefined: { attributes: { mathcolor: "red", mathbackground: "#FFEEEE", mathsize: "90%" } } },
+            messageStyle: "none"
+        });
+    </script>    
+<!--    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.2-latest/MathJax.js?config=TeX-AMS_HTML"></script>       -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>       
+</head>
+<p>
+
+
+
+
+
+<p>
+
+<h2>Sobre a distribuição geométrica</h2>
+
+<p>
+  Seja $X$ uma variável geométrica com parâmetro $p\in (0,1)$.
+</p>
+<p>
+<ol>
+  <li> Vimos que $\mathbb P ( X \geq n ) = (1-p)^{n-1}$.
+  <li> Prove que $\mathbb P ( X \geq n + t \,|\, X>  t ) = \mathbb P ( X \geq n )$.
+  <li> Prove que $\mathbb E ( X )  = \sum_{n\geq 1} \mathbb P ( X \geq n )$.
+</ol>
+</p>
+<p>
+  Prove que $\mathbb E \big[ X \, \big|\, X>1 \big] = \mathbb E \big[ X+1\big ]$.
+</p>

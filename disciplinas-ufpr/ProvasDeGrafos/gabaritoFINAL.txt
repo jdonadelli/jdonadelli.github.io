@@ -1,0 +1,101 @@
+**pra escrever em txt mudarei algumas notacoes, as legendas estarao
+  em cada exercicio**
+
+Considero os exercicios  1,2,3 e 6 FACEIS (obrigatorio  saber fazer) e
+valem 50 pontos.  O 4 considero  MEDIO (das 3 implicacoes 2 sao faceis
+e uma media). O 5 era O exercicio dificil da prova.
+######################################################################
+(1)
+legenda:
+	G = grafo qualquer
+	H = complemento de G
+	dX(v) = grau de v no grafo X
+	n = numero de vertices de G
+
+Resposta: Por definicao de complemento 
+		    (*)   dG(v)+dH(v)=n-1
+pois n-1 é o número total de vizinhos e nao-vizinhos de v em G;
+alem disso 
+	(**)   o vértice que tem grau mínimo em G tem grau maximo em H
+
+De (*) e (**) temos uma prova da afirmação.
+######################################################################
+(2)
+Tome o conjunto das arestas da forma {0x,1x}, onde x varia sobre todas
+as  sequencias de  k-1  bits  (k>=1). Essas  arestas  cobrem todos  os
+vertices do k-cubo. Duas arestas  diferentes {0x,1x} e {0y,1y} nao tem
+vertice em comum pois caso contrario x=y.
+######################################################################
+(3)
+a soma dos graus é par (duas vezes o número de arestas). 
+a soma dos  graus dos vertices de  grau par é par portanto  a soma dos
+graus dos vertices de  grau impar deve ser par e isso  só ocorre se ha
+um numero impar desses vertices.
+######################################################################
+(6)
+legenda:
+	M = emparelhamento 
+	M* = emparelhamento maximo
+	K = cobertura
+	K* = cobertura minima
+
+(a) Como arestas de emparelhamento nao compartilham vertice entao para
+todo M uma cobertura tem que  ter pelo menos um vertice de cada aresta
+de M, ou seja, |K|>=|M|; em particular |K|>=|M*|.
+
+(b) Por definicao de M* e K*
+		  |K|>=|K*| e |M*|>=|M|
+usando o item (a) nas desigualdades acima
+		  |K|>=|K*|>=|M*|>=|M|
+por hipotese |K|=|M|, logo 
+		  |K|=|K*|=|M*|=|M|
+e K e minimo e M maximo. 
+######################################################################
+(4)
+legenda:
+	n = numero de vertices de G
+
+(a) => (b):
+    G é conexo e com n-1 arestas. Vimos em aula (Proposicao 15, pag 61
+    das notas de aula) que G é arvore e portanto aciclico. 
+(b) => (c)
+    G é aciclico com n-1 arestas. Por induçao em n que G é conexo:
+    Base: n=3.  O unico (a menos de  isomorfismos) grafo com 3  vs e 2
+    arestas é o caminho P^2 que é conexo. 
+    Hipotese  Indutiva: todo  grafo aciclico  com n-1  vertices  e n-2
+    arestas é  conexo. 
+    Passo:  seja G  um  grafo  aciclico com  n-1  arestas. Escolha  um
+    vertice v  de grau 1. Esse  vertice existe pois se  todos os graus
+    fossem pelo menos 2 ebtao G conteria circuito. 
+            G-v  é aciclico  com n-1  vertices  e n-2  arestas e  pela
+    Hipotese Indutiva e conexo. Como v tem um vizinho em G-v temos que
+    G conexo.
+
+(c) => (a)
+    G  é conexo  e aciclico.  Por definicao  G é  arvore e  portanto é
+    conexo e tem n-1 arestas (porposicao 15)
+######################################################################  
+(5)
+legenda:
+        G' = grafo devolvido pelo algoritmo
+
+(essa prova é uma imitação da prova do alg. de Kruskal)
+
+Notemos que  G' é conexo pela condiçao  da linha 4 e  é conexo minimal
+pois, caso contrario, existe aresta h  tal que G'-h é conexo mas entao
+G-h  é conexo  e dessa  forma h  seria removida.   Portanto, G'  é uma
+árvore geradora de G.  
+
+Agora, consideremos a seqüência (e1,e2,...,ek) em que as arestas foram
+removidas de  G.  Seja T uma árvore  geradora mínima de G  com o maior
+número possível de arestas em comum com G' e vamos mostrar que T=G'. 
+
+Suponha o contrario, T diferente  G'. Entao pelo menos uma das arestas
+removidas deve estar em T e seja 
+	       m = min{j: ej  esta em T} 
+Por definição G'+em contém um circuito; nesse circuito deve existir
+uma aresta  f de  G' que não  está em T  e como  em foi retirada  de G
+devemos ter  peso(f)<=peso(em). Logo c(T+f-e_m)<=  c(T) e como T  é de
+custo mínimo  vale a igualdade,  ou seja T+f-em  é de custo  mínimo e,
+ainda, com mais arestas   em comum que T contrariando a escolha de T. 
+
