@@ -18,6 +18,8 @@ Se está matriculado, atente para seu email institucional. [Esta disciplina est�
 
 **Conteúdo resumido**: Demonstrações. Teoria intuitiva de conjuntos. Relações e Funções. Indução. Análise Combinatória. Funções geradoras. Relações recorrência
 
+[Notas de aula](http://bit.ly/2vmed2fdiscreta)
+
 | Semana     | Tema                           | Subtemas                                                     | Atividades Teórico/Práticas |
 | :--------: | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |   01   | Noções informais de lógica     | Apresentação, administrativia. Proposicões, valor-logico, conectivos logicos, equivalência logica, implicação lógica. Variáveis, predicados, quantificadores. | - leitura de [texto](SEMANA1.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
