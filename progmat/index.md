@@ -4,11 +4,11 @@
 
 ------
 
-Se está matriculado, atente para seu email institucional. [Esta disciplina está no moodle](https://moodle.ufabc.edu.br/course/view.php?id=1238). 
+Se está matriculado, atente para seu email institucional. [Esta disciplina está no moodle](https://moodle.ufabc.edu.br/course/view.php?id=2203). 
 
-Esta disciplina expõe ao aluno uma introdução à programação linear através da formulação, estruturação e solução de modelos matemáticos usados como instrumentos no processo de tomada de decisão em que  as variáveis de decisão são contínuas e apresentam comportamento linear, tanto em relação às restrições quanto à função-objetivo. Programação aqui é entendida no sentido de planejamento, engloba mas não se restringe a programação computacional.
+Esta disciplina expõe ao aluno uma introdução à programação linear através da formulação, estruturação e solução de modelos matemáticos usados como instrumentos no processo de tomada de decisão em que  as variáveis de decisão são contínuas e apresentam comportamento linear, tanto em relação às restrições quanto à função-objetivo. Programação aqui é entendida no sentido de planejamento, um roteiro do qual a programação computacional pode ou não fazer parte (mas em geral faz). 
 
-A disciplina de *Álgebra Linear* é considerada como pré-requisito para *Programação Matemática*. 
+**Pré-requisito:** *Álgebra Linear* e *Geometria Analítica*
 
 **ÍNDICE:**
 
@@ -20,8 +20,8 @@ A disciplina de *Álgebra Linear* é considerada como pré-requisito para *Progr
 
 | Semana     | Tema                           | Atividades Teórico/Práticas |
 | :--------: | ------------------------------ | ------------------------------------------------------------ |
-| 1 | Programação Linear: modelagem |                             |
-| 2 | Programação Linear: resolução Gráfica |                             |
+| 1 | Modelagem |                             |
+| 2 | Resolução Gráfica |                             |
 | 3 | Conjuntos convexos |                             |
 | 4 | O método simplex |                             |
 | 5 | O método simplex |                             |
@@ -43,9 +43,9 @@ Fornecer ao aluno uma introdução à programação linear e à programação di
 
 ### **Referências bibliográficas**
 
-   - Understanding and Using Linear Programming,    Jiří Matoušek e Bernd Gärtner. [Link](https://link.springer.com/book/10.1007%2F978-3-540-30717-4)  para acesso via biblioteca.
-   - Linear Programming, Foundations and Extensions. Robert J. Vanderbei.  [Link](https://link.springer.com/book/10.1007%2F978-1-4614-7630-6) para acesso via biblioteca.
-   - Programação Linear e Fluxos em Redes, Marco Goldbarg. [Link](https://integrada.minhabiblioteca.com.br/reader/books/9788595155763/pages/recent) para acesso via SIGAA
+   - *Understanding and Using Linear Programming*, Jiří Matoušek e Bernd Gärtner. [Link](https://link.springer.com/book/10.1007%2F978-3-540-30717-4)  para acesso via biblioteca.
+   - *Linear Programming, Foundations and Extensions*. Robert J. Vanderbei.  [Link](https://link.springer.com/book/10.1007%2F978-1-4614-7630-6) para acesso via biblioteca.
+   - *Programação Linear e Fluxos em Redes*, Marco Goldbarg. [Link](https://integrada.minhabiblioteca.com.br/reader/books/9788595155763/pages/recent) para acesso via SIGAA
 
 
  **Bibliografia complementar**
@@ -63,7 +63,9 @@ Fernando Q. Gouvêa e Shai Simonson, [How to Read Mathematics](http://web.stoneh
 
 ### **Atendimento e dúvidas**
 
-O atendimento pelo professor se dará pelos meios eletrônicos. Casos pessoais/particulares ou casos burocráticos devem ser encaminhados por email. As dúvidas sobre o conteúdo são submetidas nos fóruns  do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de coordialidade e respeito com os colegas. 
+O atendimento pelo professor se dará pelos meios eletrônicos. <img src="ecda4411-52c7-4059-beef-0f9194e20e6c.jpeg" style="zoom:30%;" align="left"/>
+
+Casos pessoais/particulares ou casos burocráticos são encaminhados por email. As dúvidas sobre o conteúdo são submetidas nos fóruns  do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de cordialidade e respeito com os colegas. 
 
 O atendimento semanal presencial se dá nos seguintes horários, 3as. das 20h30 às 21h10 no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1).
 
@@ -71,7 +73,7 @@ O atendimento semanal presencial se dá nos seguintes horários, 3as. das 20h30 
 
 ### **Avaliação e Frequência (em preparação)**
 
-Não haverá atividade síncrona. 
+Não haverá atividade síncrona além do horário de atendimento. 
 
 É esperado uma conduta ética por parte do aluno. [Aqui](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/) e [aqui](https://www.ime.usp.br/~coelho/mac0323-2018/plagio.html) se tem uma boa referência do que é esperado. 
 
@@ -81,10 +83,9 @@ Lembrando que a UFABC tem um [código de ética](https://www.ufabc.edu.br/images
 
 As **provas** serão 3, nas semanas 4, 8 e 12. São avaliações individuais. Os critérios de avaliação incluem
 
-1.  Apresentação clara, legível, discursiva, uniforme e objetiva.
-2.  Construção correta e em ordem dos argumentos.
-3.  Atendimento às normas de correção ortográfica e gramatical.
-4.  Observância às orientações específicas da atividade e aos prazos de entrega. 
+1.  Apresentação clara, legível, discursiva, uniforme, objetiva e atenta às normas de correção ortográfica e gramatical (30%).
+2.  Construção correta e em ordem dos argumentos (70%).
+3.  Observância às orientações específicas da atividade e aos prazos de entrega. 
 
 *<u>Todo encaminhamento de atividade deve ser feito pelo moodle.*</u>
 
@@ -92,11 +93,11 @@ As **participações** nos fóruns são avaliadas de acordo  com
 
 |                          | critério                                                     | pontos   |
 | ------------------------ | ------------------------------------------------------------ | -------- |
-| Não participa            | Não participa dos fóruns                                     | -10      |
+| Não participa            | Não participa dos fóruns ou participa sem relevância.        | -10 a -1 |
 | Participação reativa     | Participa esporadicamente sem aprofundamento, coerência teórica,  sem autoria, sem trocas de ideias e diálogos, não traz questões para o debate, não compartilha material. | 0 a 5    |
 | Participação  interativa | O aluno participa dos fóruns com regularidade, aprofundamento, coerência, autoria, diálogo como os pares (coautoria), traz questões para o debate e compartilha material com os pares. | 6 a $10$ |
 
-**Nota e Conceito final**:    serão avaliados com nota 0 a 100 nas atividades;
+**Nota e Conceito final**:    serão avaliados com nota de 0 a 100 nas atividades;
 
 **Nota** = 75%$\cdot$(média das provas) + 25%$\cdot$(média dos questionários) +  Participação
 
