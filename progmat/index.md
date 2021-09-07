@@ -43,6 +43,7 @@ Fornecer ao aluno uma introdução à programação linear e à programação di
 
 ### **Referências bibliográficas**
 
+   - *Otimização Combinatória e Programação Linear, Modelos e Algoritmos*, Marco C. Goldbarg  e Henrique P. L. Luna.  <u>[Livro](http://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf) texto da disciplina</u>. 
    - *Understanding and Using Linear Programming*, Jiří Matoušek e Bernd Gärtner. [Link](https://link.springer.com/book/10.1007%2F978-3-540-30717-4)  para acesso via biblioteca.
    - *Linear Programming, Foundations and Extensions*. Robert J. Vanderbei.  [Link](https://link.springer.com/book/10.1007%2F978-1-4614-7630-6) para acesso via biblioteca.
    - *Programação Linear e Fluxos em Redes*, Marco Goldbarg. [Link](https://integrada.minhabiblioteca.com.br/reader/books/9788595155763/pages/recent) para acesso via SIGAA
@@ -63,7 +64,7 @@ Fernando Q. Gouvêa e Shai Simonson, [How to Read Mathematics](http://web.stoneh
 
 ### **Atendimento e dúvidas**
 
-O atendimento pelo professor se dará pelos meios eletrônicos. <img src="ecda4411-52c7-4059-beef-0f9194e20e6c.jpeg" style="zoom:30%;" align="left"/>
+O atendimento pelo professor se dará pelos meios eletrônicos. 
 
 Casos pessoais/particulares ou casos burocráticos são encaminhados por email. As dúvidas sobre o conteúdo são submetidas nos fóruns  do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de cordialidade e respeito com os colegas. 
 
