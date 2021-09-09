@@ -6,7 +6,7 @@
 
 Se está matriculado, atente para seu email institucional. [Esta disciplina está no moodle](https://moodle.ufabc.edu.br/course/view.php?id=2203). 
 
-Esta disciplina expõe ao aluno uma introdução à programação linear através da formulação, estruturação e solução de modelos matemáticos usados como instrumentos no processo de tomada de decisão em que  as variáveis de decisão são contínuas e apresentam comportamento linear, tanto em relação às restrições quanto à função-objetivo. Programação aqui é entendida no sentido de planejamento, um roteiro do qual a programação computacional pode ou não fazer parte (mas em geral faz). 
+Esta disciplina expõe ao aluno uma introdução à programação linear através da formulação, estruturação e solução de modelos matemáticos usados como instrumentos no processo de tomada de decisão em que  as variáveis de decisão são contínuas e apresentam comportamento linear, tanto em relação às restrições quanto à função-objetivo. A "Programação" do nome é entendida no sentido de planejamento, um roteiro do qual a programação computacional pode ou não fazer parte. 
 
 **Pré-requisito:** *Álgebra Linear* e *Geometria Analítica*
 
@@ -39,7 +39,7 @@ Introdução: revisões de álgebra linear e conjuntos convexos. Programação l
 
 ### **Objetivos** 
 
-Fornecer ao aluno uma introdução à programação linear e à programação dinâmica em Pesquisa Operacional. Desenvolver nos alunos a capacidade de formular, estruturar e solucionar modelos matemáticos como instrumentos no processo de tomada de decisão.
+Desenvolver nos alunos a capacidade de formular, estruturar e solucionar modelos matemáticos como instrumentos no processo de tomada de decisão.
 
 ### **Referências bibliográficas**
 
@@ -62,19 +62,17 @@ Fernando Q. Gouvêa e Shai Simonson, [How to Read Mathematics](http://web.stoneh
 
 ------
 
-### **Atendimento e dúvidas**
+### **Atendimento**
 
 O atendimento pelo professor se dará pelos meios eletrônicos. 
 
-Casos pessoais/particulares ou casos burocráticos são encaminhados por email. As dúvidas sobre o conteúdo são submetidas nos fóruns  do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de cordialidade e respeito com os colegas. 
+Casos pessoais/particulares ou casos burocráticos devem ser encaminhados por email. As dúvidas sobre o conteúdo devem ser enviadas nos fóruns do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de cordialidade e respeito com os colegas. 
 
-O atendimento semanal presencial se dá nos seguintes horários, 3as. das 20h30 às 21h10 no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1).
+Haverá um encontro semanal presencial no seguinte horário: XXXX  no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1). Não haverá atividade síncrona além desse horário de atendimento. 
 
 ------
 
 ### **Avaliação e Frequência (em preparação)**
-
-Não haverá atividade síncrona além do horário de atendimento. 
 
 É esperado uma conduta ética por parte do aluno. [Aqui](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/) e [aqui](https://www.ime.usp.br/~coelho/mac0323-2018/plagio.html) se tem uma boa referência do que é esperado. 
 
@@ -100,7 +98,7 @@ As **participações** nos fóruns são avaliadas de acordo  com
 
 **Nota e Conceito final**:    serão avaliados com nota de 0 a 100 nas atividades;
 
-**Nota** = 75%$\cdot$(média das provas) + 25%$\cdot$(média dos questionários) +  Participação
+**Nota** = 80%$\cdot$(média das provas) + 20%$\cdot$(média dos questionários) +  Participação
 
 | Nota                   | Conceito final |
 | ---------------------- | -------------- |
