@@ -23,15 +23,16 @@ Esta disciplina expõe ao aluno uma introdução à programação linear atravé
 | 1 | Modelagem |                             |
 | 2 | Resolução Gráfica |                             |
 | 3 | Conjuntos convexos |                             |
-| 4 | O método simplex |                             |
+| 4 | O método simplex | Avaliação |
 | 5 | O método simplex |                             |
 | 6 | Dualidade |                             |
 | 7 | Algoritmos primal-dual e dual-simplex |                             |
-| 8 | Análise de sensibilidade |                             |
+| 8 | Análise de sensibilidade | Avaliação |
 | 9 | Algoritmo do elipsóide |                             |
 | 10 | Algoritmo de pontos interiores |                             |
 | 11 | Aplicações |                             |
-| 12 | Avaliação recuperativa |                             |
+| 12 |                                       | Avaliação |
+|  | Avaliação recuperativa                |  |
 
 ### **Ementa**
 
@@ -72,7 +73,7 @@ Haverá um encontro semanal presencial no seguinte horário: XXXX  no link dispo
 
 ------
 
-### **Avaliação e Frequência (em preparação)**
+### **Avaliação e Frequência**
 
 É esperado uma conduta ética por parte do aluno. [Aqui](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/) e [aqui](https://www.ime.usp.br/~coelho/mac0323-2018/plagio.html) se tem uma boa referência do que é esperado. 
 
