@@ -124,8 +124,22 @@ A prova será no final do quadrimestre.
 ### **Links**
 
 1. [Plataformas digitais](https://docs.google.com/document/d/1St2GniLrGAuDBJgnb1oFfAlJiLwAJPucC3t0c_Vbza4/edit), Biblioteca UFABC
+2. [*PuLP*](http://www.optimization-online.org/DB_FILE/2011/09/3178.pdf): A Linear Programming Toolkit for
+   Python. [Documentação](https://coin-or.github.io/pulp/)
 
-------
+Outros *solvers* para programação linear
+
+- [GLPK](https://www.gnu.org/software/glpk/)
+- [LP Solve](http://lpsolve.sourceforge.net/5.5/)
+- [CLP](https://github.com/coin-or/Clp)
+- [CBC](https://github.com/coin-or/Cbc)
+- [CVXOPT](https://cvxopt.org/)
+- [SciPy](https://docs.scipy.org/doc/scipy/reference/optimize.html)
+- [SCIP](https://scip.zib.de/) with [PySCIPOpt](https://github.com/SCIP-Interfaces/PySCIPOpt)
+- [Gurobi Optimizer](https://www.gurobi.com/)
+- [CPLEX](https://www.ibm.com/analytics/cplex-optimizer)
+- [XPRESS](https://www.fico.com/en/products/fico-xpress-solver)
+- [MOSEK](https://www.mosek.com/)
 
 ### **[Calendário acadêmico](https://www.ufabc.edu.br/images/stories/comunicacao/Boletim/consepe_ato_decisorio_203_anexo_1.pdf)**
 
