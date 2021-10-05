@@ -20,13 +20,13 @@ Esta disciplina expõe ao aluno uma introdução à programação linear atravé
 
 | Semana     | Tema                           | Atividades Teórico/Práticas |
 | :--------: | ------------------------------ | ------------------------------------------------------------ |
-| 1 | Modelagem |                             |
-| 2 | Resolução Gráfica |                             |
-| 3 | Conjuntos convexos |                             |
-| 4 | O método simplex | Avaliação |
-| 5 | O método simplex |                             |
-| 6 | Dualidade |                             |
-| 7 | Algoritmos primal-dual e dual-simplex |                             |
+| 1 | Problemas de progamação linear |                             |
+| 2 | Modelagem |                             |
+| 3 | Resolução gráfica |                             |
+| 4 | Conjuntos convexos             | Avaliação |
+| 5 | Solução básica |                             |
+| 6 | O método simplex |                             |
+| 7 | Dualidade |                             |
 | 8 | Análise de sensibilidade | Avaliação |
 | 9 | Algoritmo do elipsóide |                             |
 | 10 | Algoritmo de pontos interiores |                             |
@@ -69,7 +69,7 @@ O atendimento pelo professor se dará pelos meios eletrônicos.
 
 Casos pessoais/particulares ou casos burocráticos devem ser encaminhados por email. As dúvidas sobre o conteúdo devem ser enviadas nos fóruns do Moodle e todos são encorajados (e avaliados por isso) a discutir e solucionar os problemas dos colegas. Devem ser observados os princípios básicos de cordialidade e respeito com os colegas. 
 
-Haverá um encontro semanal presencial no seguinte horário: XXXX  no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1). Não haverá atividade síncrona além desse horário de atendimento. 
+Haverá um encontro semanal presencial no seguinte horário: 3ª as 20h20  no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1). Não haverá atividade síncrona além desse horário de atendimento. 
 
 ------
 
@@ -127,7 +127,7 @@ A prova será no final do quadrimestre.
 2. [*PuLP*](http://www.optimization-online.org/DB_FILE/2011/09/3178.pdf): A Linear Programming Toolkit for
    Python. [Documentação](https://coin-or.github.io/pulp/)
 
-Outros *solvers* para programação linear
+*Solvers* para programação linear
 
 - [GLPK](https://www.gnu.org/software/glpk/)
 - [LP Solve](http://lpsolve.sourceforge.net/5.5/)
