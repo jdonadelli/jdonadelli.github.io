@@ -25,11 +25,11 @@ Esta disciplina expõe ao aluno uma introdução à programação linear atravé
 | 3 | Resolução gráfica |                             |
 | 4 | Conjuntos convexos             | Avaliação |
 | 5 | Solução básica |                             |
-| 6 | O método simplex |                             |
-| 7 | Dualidade |                             |
-| 8 | Análise de sensibilidade | Avaliação |
-| 9 | Algoritmo do elipsóide |                             |
-| 10 | Algoritmo de pontos interiores |                             |
+| 6 | Solução básica                 |                             |
+| 7 | Simplex |                             |
+| 8 | Dualidade | Avaliação                   |
+| 9 | Dualidade |  |
+| 10 | Análise de sensibilidade |                             |
 | 11 | Aplicações |                             |
 | 12 |                                       | Avaliação |
 |  | Avaliação recuperativa                |  |
@@ -124,8 +124,9 @@ A prova será no final do quadrimestre.
 ### **Links**
 
 1. [Plataformas digitais](https://docs.google.com/document/d/1St2GniLrGAuDBJgnb1oFfAlJiLwAJPucC3t0c_Vbza4/edit), Biblioteca UFABC
-2. [*PuLP*](http://www.optimization-online.org/DB_FILE/2011/09/3178.pdf): A Linear Programming Toolkit for
-   Python. [Documentação](https://coin-or.github.io/pulp/)
+2. [AIMMS Modeling Guide - Linear Programming Tricks](https://download.aimms.com/aimms/download/manuals/AIMMS3OM_LinearProgrammingTricks.pdf)
+3. [*PuLP*](http://www.optimization-online.org/DB_FILE/2011/09/3178.pdf): A Linear Programming Toolkit for
+   Python. [Documentação](https://coin-or.github.io/pulp/)  [ProgMat.ipynb](https://colab.research.google.com/drive/17FOPMdYFqWy0UclxT6qJx-YRLcZQOrA_?usp=sharing) (arquivo com exemplos)
 
 *Solvers* para programação linear
 
