@@ -1,12 +1,14 @@
-# Matemática Discreta 2021 - 2
+# Matemática Discreta 2022 - 1
 
 **Professor** [Jair Donadelli](http://hostel.ufabc.edu.br/~jair.donadelli)   ---  **email**  jair.donadelli 'arroba' ufabc. ...
 
 ------
 
-<img src="../images/discreto.jpg" align="right" valign="top" height="130px" />Esta disciplina expõe ao aluno os princípios, técnicas e metodologias associadas a problemas em  estruturas matemáticas discretas, aquelas cujo domínio é enumerável, finito ou infinito. Em particular, dá-se ênfase a princípios de indução, relações e princípios de contagem e combinatórios. 
+<img src="../images/discreto.jpg" align="right" valign="top" height="130px" />Matemática discreta (porém, exuberante) expõe ao aluno os princípios, técnicas e metodologias associadas a problemas em  estruturas matemáticas discretas, aquelas cujo domínio é enumerável, finito ou infinito. Em particular, nesta disciplina dá-se ênfase a princípios de indução, relações e princípios de contagem e combinatórios. 
 
-Se está matriculado, atente para seu email institucional. [Esta disciplina está no moodle](https://moodle.ufabc.edu.br/course/view.php?id=1238). 
+Se está matriculado, atente para seu email institucional. [Esta disciplina está no moodle](https://moodle.ufabc.edu.br/course/view.php?id=2912). 
+
+O horário oficial é 2a 8h00  e 5a 10h00; as aulas serão assíncronas.
 
 ------
 
@@ -22,12 +24,12 @@ Se está matriculado, atente para seu email institucional. [Esta disciplina est�
 
 | Semana     | Tema                           | Subtemas                                                     | Atividades Teórico/Práticas |
 | :--------: | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|   01   | Noções informais de lógica     | Apresentação, administrativia. Proposicões, valor-logico, conectivos logicos, equivalência logica, implicação lógica. Variáveis, predicados, quantificadores. | - leitura de [texto](SEMANA1.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
-|   02   | Teoria intuitiva de  conjuntos | Conjunto, pertinência, inclusão, operações e suas propriedades, conjunto das partes. Axiomática (informal) ZFC. Par ordenado e produto cartesiano:definição a partir dos axiomas. Conjuntos numéricos: naturais, inteiros, suas propriedades aritméticas e de ordem. | - leitura de [texto](SEMANA2.pdf)<br />- resolução de exercícios<br/>- discussão no fórum da semana |
-|   03   | Técnicas de demonstração | Prova direta, pela contrapositiva, por vacuidade, por contradição, por casos, equivalências, construtivas X existenciais. | - leitura de [texto](SEMANA3.pdf)<br />- resolução de exercícios<br/>- discussão no fórum da semana |
-| 04 | Relações e funções | Relações binárias eas classificações. Relações de ordem. Ordens parciais, totais e boa ordem. | - leitura de [texto](SEMANA4.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
-|   05   | Indução | As várias formas do princípio de Indução: indução, indução completa, indução para subconjuntos de inteiros limitados inferiormente, indução passo k, indução com passo pra trás. Equivalência entre princípios. Demonstrações usando indução. Definições recursivas de sequências e de conjuntos. | - leitura de [texto](SEMANA5.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
-|   06   | Indução | Indução em conjuntos bem ordenados. Relações bem fundadas e indução bem fundada, indução estrutural. | - leitura de [texto](SEMANA6.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
+|   01   | Fundamentos            | Proposicões, valor-logico, conectivos logicos, equivalência logica, implicação lógica. Variáveis, predicados, quantificadores. Conjunto, pertinência, inclusão, operações e suas propriedades, conjunto das partes. Conjuntos numéricos: naturais, inteiros, suas propriedades aritméticas e de ordem. | - leitura de [texto](SEMANA1.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
+|   02   | Demonstração | Prova direta, pela contrapositiva, por vacuidade, por contradição, por casos, equivalências, construtivas X existenciais. | - leitura de [texto](SEMANA2.pdf)<br />- resolução de exercícios<br/>- discussão no fórum da semana |
+|   03   | Indução                | As várias formas do princípio de Indução: indução, indução completa, indução para subconjuntos de inteiros limitados inferiormente, indução passo k, indução com passo pra trás. Equivalência entre princípios. Demonstrações usando indução. Definições recursivas de sequências e de conjuntos. | - leitura de [texto](SEMANA3.pdf)<br />- resolução de exercícios<br/>- discussão no fórum da semana |
+| 04 |                        | Avaliação | - resolução de exercícios<br /> |
+|   05   | Relação | Relações binárias eas classificações. Relações de ordem. Ordens parciais, totais e boa ordem. Grafos. | - leitura de [texto](SEMANA4.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
+|   06   | Indução estrutural | Indução em conjuntos bem ordenados. Relações bem fundadas e indução bem fundada. | - leitura de [texto](SEMANA6.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
 |   07   | Contagem | Bijeções, cardinalidade, conjuntos finitos, enumeráveis e infinitos. Princípio das gavetas (ou casa dos pombos). Princípios aditivo e multiplicativo. | - leitura de [texto](SEMANA7.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
 |   08   | Avaliação | Avaliação | - resolução de exercícios<br /> |
 |   09   | Combinatória | Combinação, arranjo, permutação. Solução inteira de equações. Inclusão--exclusão; binômio de Newton; coeficiente multinomial; relações de equivalência, classe de equivalência e contagem. | - leitura de [texto](SEMANA9.pdf)<br />- resolução de exercícios<br />- discussão no fórum da semana |
@@ -42,7 +44,9 @@ Teoria intuitiva dos conjuntos. Operações com conjuntos. Álgebra de conjuntos
 
 ### **Objetivos** 
 
-<img src="ideia.png" height="130" align="right" valign="top"/>Matemática discreta corresponde ao estudo de estruturas matemáticas cujos domínios  são, em geral,  enumeráveis,  finitos ou infinitos. Esse estudo compreende relações entre os elementos e configurações de elementos tais como partições, subconjuntos, etc. Algumas das questões sobre elementos incluem enumeração, contagem, existência, construção e otimização. Esta disciplina tem como objetivos gerais permitir ao aluno dominar princípios, técnicas e metodologias associadas a problemas de estruturas discretas.
+<img src="ideia.png" height="130" align="right" valign="top"/>Esta disciplina tem como objetivos gerais permitir ao aluno dominar princípios, técnicas e metodologias associadas às estruturas discretas. 
+
+
 
 ### **Referências bibliográficas**
 
@@ -61,26 +65,20 @@ Teoria intuitiva dos conjuntos. Operações com conjuntos. Álgebra de conjuntos
 
 ------
 
-<img src="../images/cramming-for-a-test.jpg" align="right" valign="top" style="zoom:18%;" />
+**Auto-ajuda**<img src="../images/cramming-for-a-test.jpg" align="right" valign="top" style="zoom:18%;" />
 R. Bianconi, [Como ler e estudar matemática?](http://www.ime.usp.br/~bianconi/recursos/mat.pdf) 
 
 Fernando Q. Gouvêa e Shai Simonson, [How to Read Mathematics](http://web.stonehill.edu/compsci/history_math/math-read.htm) (uma tradução "rápida e grosseira", segundo o tradutor, [aqui](http://hostel.ufabc.edu.br/~daniel.miranda/?p=628)).
 
 ------
 
-### **Atendimento e Monitoria**
+### **Atendimento**
 
-<img src="ecda4411-52c7-4059-beef-0f9194e20e6c.jpeg" height="160" align="left" valign="top" /> O atendimento pelo professor e pelos monitores se dará por meio eletrônicos. 
+<img src="ecda4411-52c7-4059-beef-0f9194e20e6c.jpeg" height="160" align="left" valign="top" /> O atendimento pelo professor se dará por meio eletrônicos. 
 
 Todos são encorajados, e serão avaliados por isso segundo critérios abaixo e  sempre que  beneficie o coletivo, a submeter nos fóruns  do AVA suas dúvidas/respostas/soluções/encaminhamentos. Devem ser observados os princípios básicos de coordialidade e respeito com os colegas. Casos pessoais/particulares devem ser encaminhados por email. 
 
-O atendimento semanal presencial se dá nos seguintes horários, 
-
-1. **monitores** nos horários em verde ou em azul abaixo, os  links estão no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1) (moodle).
-
-   ![](mon.png)
-
-2. **professor** 4as. das 11h30 às 12h20 no link disponível no [AVA](https://moodle.ufabc.edu.br/course/view.php?id=1730#section-1).
+O atendimento semanal presencial se dá na 5as  as 10hs no link disponível no [moodle]().
 
 ------
 
@@ -92,13 +90,11 @@ O atendimento semanal presencial se dá nos seguintes horários,
 
 [Aqui](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/) e [aqui](https://www.ime.usp.br/~coelho/mac0323-2018/plagio.html) se tem uma boa referência do que é esperado. 
 
- **Qualquer indício de fraude em qualquer atividade avaliativa implica na reprovação do aluno** e, eventualmente, encaminhamento docado  para a [comissão disciplinar](https://prograd.ufabc.edu.br/comissao-disciplinar-discente).
+**Qualquer indício de fraude em qualquer atividade avaliativa implica na reprovação do aluno** e, eventualmente, encaminhamento docado  para a [comissão disciplinar](https://prograd.ufabc.edu.br/comissao-disciplinar-discente).
 
 Lembrando que a UFABC tem um [código de ética](https://www.ufabc.edu.br/images/stories/comunicacao/Boletim/consuni_ato_decisorio_157_anexo.pdf) que apregoa:  Art. 25. Quanto aos trabalhos acadêmicos, é eticamente inaceitável que os discentes: I - fraudem avaliações; II -  fabriquem ou falsifiquem dados; III - plageiem ou não creditem devidamente autoria; IV - aceitem autoria  de material academico sem participação na produção;  24 V - vendam ou cedam autoria de material acadêmico próprio a pessoas que não participaram da produção.  
 
-As **provas** serão 3, nas semanas 4, 8 e 12. São avaliações individuais. 
-
-As **listas**, que serão $\geq1$ e $\leq 3$,  podem ser feitas em grupo de até  <u>3</u> alunos. Os grupos serão sorteados. 
+As **provas** serão 3, nas semanas indicadas na programação. São avaliações individuais. 
 
 Os critérios de avaliação incluem
 
@@ -113,13 +109,15 @@ As **participações** nos fóruns são avaliadas de acordo  com
 
 |                          | critério                                                     | pontos   |
 | ------------------------ | ------------------------------------------------------------ | -------- |
-| Não participa            | Não participa dos fóruns                                     | -1       |
+| Não participa            | Não participa dos fóruns                                     | -10      |
 | Participação reativa     | Participa esporadicamente sem aprofundamento, coerência teórica,  sem autoria, sem trocas de ideias e diálogos, não traz questões para o debate, não compartilha material. | 0        |
-| Participação  interativa | O aluno participa dos fóruns com regularidade, aprofundamento, coerência, autoria, diálogo como os pares (coautoria), traz questões para o debate e compartilha material com os pares. | até $10$ |
+| Participação  interativa | O aluno participa dos fóruns *com regularidade*, aprofundamento, coerência, autoria, diálogo como os pares (coautoria), traz questões para o debate e compartilha material com os pares. | até $10$ |
+
+(a participação deve ser ao longo do quadrimestre, não se dê ao trabalho de encher/"flodar" os fóruns nas últimas semanas/dias)
 
 **Nota e Conceito final**:    serão avaliados com nota 0 a 100 nas atividades;
 
-**Nota** = 50%$\cdot$(média das provas) + 25%$\cdot$(média dos questionários) + 20%$\cdot$(média das listas) + Participação
+**Nota** = 80%$\cdot$(média das provas) + 20%$\cdot$(média dos questionários)  + Participação
 
 | Nota                   | Conceito final |
 | ---------------------- | -------------- |
@@ -135,7 +133,7 @@ Toda semana haverá atividade que deverá ser entregue. Essa atividade conta par
 
 #### **Recuperação**
 
-Tem direito a recuperação aqueles que foram aprovado com D ou reprovado com F, logo *obtiveram frequência mínima*. A nota da recuperação é a média aritmética simples da notas do período regular e da avaliação recuperativa. Essa média será convertida para conceito de acordo com a tabela acima. 
+Tem direito a recuperação aqueles que foram aprovado com D ou reprovado com F e *obtiveram frequência mínima*. A nota da recuperação é a média aritmética simples da notas do período regular e da avaliação recuperativa. Essa média será convertida para conceito de acordo com a tabela acima. 
 
 A data da prova será combinada ao final do quadrimestre.
 
@@ -158,3 +156,4 @@ A data da prova será combinada ao final do quadrimestre.
 
 ### **[Calendário acadêmico](https://prograd.ufabc.edu.br/pdf/calendario_academico_2021.pdf)**
 
+![image-20220206184635319](image-20220206184635319.png)

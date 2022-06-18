@@ -1,0 +1,56 @@
+<HTML>
+  <HEAD>
+    <TITLE>Jair Donadelli Junior</TITLE>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    
+    <style>
+      body{ font-family:'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;   font-size: 48px; }
+    </style>   
+  </HEAD>
+  
+  <BODY bgColor="#ffffff">
+    <TABLE>
+      <TBODY>	
+	<TR>
+	  <TD>
+	    <IMG src="images/100.jpg" width="11">
+	    <!--	    <a href="images/realme.png"> -->
+            <IMG src="images/jair.png" border="1" width="20%"  align="middle" hspace="30">
+	    <FONT face="trebuchet ms,sans-serif" color="#696969" size=+3> Jair Donadelli</FONT> 
+	  </TD>
+	  <TD>
+	    <HR WIDTH="100%", color="lightgray">
+	    <H5> Contato</H5>
+	    Centro de Matemática, Computação e Cognição
+	    </br>Universidade Federal do ABC
+	    </br>Avenida dos Estados 5001
+	    </br>09210-580 Santo André-SP 
+	    </br>(11) 4996 8342
+	    </br>sala 546 torre 2 bloco A 
+	    <div style="display:block;text-align:left"><a target="_blank"
+	    href="https://sites.google.com/site/jairdonadelli/contato/emailufabc.png?attredirects=0"
+	    imageanchor="1"><img src="https://sites.google.com/site/jairdonadelli/contato/emailufabc.png"
+	    border="0"></a>
+	    </div>
+	    <HR WIDTH="100%", color="lightgray">
+	  </TD>
+	</TR>
+      </TBODY>
+    </TABLE>
+  </BODY>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62375533-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</HTML>
